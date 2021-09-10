@@ -50,7 +50,7 @@ def area_count
   FROM
     countries
   WHERE
-    area > 1000000
+    area > 1000000;
   SQL
 end
 
