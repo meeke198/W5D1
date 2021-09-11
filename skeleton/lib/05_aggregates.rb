@@ -110,3 +110,4 @@ def populous_continents
     SUM(population) >= 100000000
   SQL
 end
+
